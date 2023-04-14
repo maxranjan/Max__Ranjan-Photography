@@ -7,7 +7,6 @@
 .header {
     height: 100vh;
     width: 100%;
-    background: url(image.jpg);
 }
 
 .main {
@@ -15,7 +14,7 @@
     background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)90%);
     background-position: center;
     background-size: cover;
-    height: 20vh;
+    height: 2000vh;
 }
 
 .navbar {
@@ -32,7 +31,7 @@
 
 .logo {
     color: #fcfc06fc;
-    font-size: 30px;
+    font-size: 35px;
     font-family: sans-serif;
     padding-left: 30px;
     float: right;
@@ -57,7 +56,7 @@ ul li {
     list-style: none;
     margin-left: 62px;
     margin-top: 27px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 ul li a {
@@ -69,7 +68,7 @@ ul li a {
 }
 
 ul li a:hover {
-    color: #e19b61;
+    color: #8ed50a;
 }
 
 .search {
