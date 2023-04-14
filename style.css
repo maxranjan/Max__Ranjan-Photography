@@ -11,17 +11,17 @@
     display: flex;
 }
 
-.main {
+.navbar {
     width: 100%;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)90%);
-    background-position: center;
+    /* background-position: center; */
     background-size: cover;
     height: 25vh;
 }
 
 .navbar {
     width: 1200px;
-    height: 75px;
+    height: 160px;
     margin: auto;
 }
 
@@ -35,8 +35,8 @@
     color: #fcfc06fc;
     font-size: 35px;
     font-family: sans-serif;
-    padding-left: 30px;
-    float: right;
+    padding-left: 20px;
+    float: center;
     padding-top: 10px;
     margin-top: 5px
 }
