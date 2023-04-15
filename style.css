@@ -386,68 +386,193 @@ ul li a:hover {
     transition: .4s ease;
 }
 
-body{
-    margin:0;
-    overflow-x:hidden;
-    }
-    
-    .footer{
-    background:#0fd5ad;
-    padding:29px 10px;
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.footer {
+    background: #0fd5ad;
+    padding: 29px 10px;
     font-family: 'Play', sans-serif;
-    text-align:center;
-    float: center; 
+    text-align: center;
+    float: center;
     height: 45vh;
+}
+
+.footer {
+    width: 1200px;
+    height: 250px;
+    margin: auto;
+}
+
+.footer .row {
+    width: 100%;
+    margin: 2% 0%;
+    padding: 0.6% 0%;
+    color: rgb(23, 33, 218);
+    font-size: 1.0em;
+}
+
+.footer .row a {
+    text-decoration: none;
+    color: rgb(23, 17, 17);
+    transition: 0.5s;
+}
+
+.footer .row a:hover {
+    color: #130f0f;
+}
+
+.footer .row ul {
+    width: 100%;
+}
+
+.footer .row ul li {
+    display: inline-block;
+    margin: 0px 30px;
+}
+
+.footer .row a i {
+    font-size: 2em;
+    margin: 0% 1%;
+}
+
+@media (max-width:720px) {
+    .footer {
+        text-align: left;
+        padding: 5%;
     }
-    .footer{
-        width: 1200px;
-        height: 250px;
-        margin: auto;
+
+    .footer .row ul li {
+        display: block;
+        margin: 10px 0px;
+        text-align: left;
     }
+
+    .footer .row a i {
+        margin: 0% 3%;
+    }
+}
+
+.member {
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    padding-left: 180px; 
+    margin-top: 5%;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.member li {
+    font-family: verdana;
+    margin-top: 13px;
+    color: #0d0100;
+    font-size: 15px;
+    padding: 15px;
+    padding-left: 10px;
+   
+}
+.member1 {
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    padding-left: 180px; 
+    margin-top: 5%;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.member li {
+    font-family: verdana;
+    margin-top: 13px;
+    color: #0d0100;
+    font-size: 15px;
+    padding: 15px;
+    padding-left: 10px;
+   
+}
+.member2 {
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    padding-left: 180px; 
+    margin-top: 5%;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.member li {
+    font-family: verdana;
+    margin-top: 13px;
+    color: #0d0100;
+    font-size: 15px;
+    padding: 15px;
+    padding-left: 10px;
+   
+}
+.member3 {
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    padding-left: 180px; 
+    margin-top: 5%;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.member li {
+    font-family: verdana;
+    margin-top: 13px;
+    color: #0d0100;
+    font-size: 15px;
+    padding: 15px;
+    padding-left: 10px;
+   
+}
+.member4 {
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    padding-left: 180px; 
+    margin-top: 5%;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.member li {
+    font-family: verdana;
+    margin-top: 13px;
+    color: #0d0100;
+    font-size: 15px;
+    padding: 15px;
+    padding-left: 10px;
+   
+}
+.member5 {
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    padding-left: 180px; 
+    margin-top: 5%;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.member li {
+    font-family: verdana;
+    margin-top: 13px;
+    color: #0d0100;
+    font-size: 15px;
+    padding: 15px;
+    padding-left: 10px;
+   
+}
+.address{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: auto;
+    padding: 50px 140px;
+    float:center; 
     
-    .footer .row{
-    width:100%;
-    margin:2% 0%;
-    padding:0.6% 0%;
-    color:rgb(23, 33, 218);
-    font-size:1.0em;
-    }
-    
-    .footer .row a{
-    text-decoration:none;
-    color:rgb(23, 17, 17);
-    transition:0.5s;
-    }
-    
-    .footer .row a:hover{
-    color:#130f0f;
-    }
-    
-    .footer .row ul{
-    width:100%;
-    }
-    
-    .footer .row ul li{
-    display:inline-block;
-    margin:0px 30px;
-    }
-    
-    .footer .row a i{
-    font-size:2em;
-    margin:0% 1%;
-    }
-    
-     @media (max-width:720px){
-    .footer{
-    text-align:left;
-    padding:5%;
-    } 
-    .footer .row ul li{
-    display:block;
-    margin:10px 0px;
-    text-align:left;
-    }
-    .footer .row a i{
-    margin:0% 3%;
-    }
-    }
+}
+.address h5{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    text-align: left;
+    padding: 0px 60px;
+}
