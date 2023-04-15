@@ -458,7 +458,7 @@ body {
 .member {
     font-family: 'Times New Roman';
     font-size: 15px;
-    padding-left: 180px; 
+    padding-left: 180px;
     margin-top: 5%;
     letter-spacing: 1px;
     text-align: left;
@@ -471,12 +471,13 @@ body {
     font-size: 15px;
     padding: 15px;
     padding-left: 10px;
-   
+
 }
+
 .member1 {
     font-family: 'Times New Roman';
     font-size: 15px;
-    padding-left: 180px; 
+    padding-left: 180px;
     margin-top: 5%;
     letter-spacing: 1px;
     text-align: left;
@@ -489,12 +490,13 @@ body {
     font-size: 15px;
     padding: 15px;
     padding-left: 10px;
-   
+
 }
+
 .member2 {
     font-family: 'Times New Roman';
     font-size: 15px;
-    padding-left: 180px; 
+    padding-left: 180px;
     margin-top: 5%;
     letter-spacing: 1px;
     text-align: left;
@@ -507,12 +509,13 @@ body {
     font-size: 15px;
     padding: 15px;
     padding-left: 10px;
-   
+
 }
+
 .member3 {
     font-family: 'Times New Roman';
     font-size: 15px;
-    padding-left: 180px; 
+    padding-left: 180px;
     margin-top: 5%;
     letter-spacing: 1px;
     text-align: left;
@@ -525,12 +528,13 @@ body {
     font-size: 15px;
     padding: 15px;
     padding-left: 10px;
-   
+
 }
+
 .member4 {
     font-family: 'Times New Roman';
     font-size: 15px;
-    padding-left: 180px; 
+    padding-left: 180px;
     margin-top: 5%;
     letter-spacing: 1px;
     text-align: left;
@@ -543,12 +547,13 @@ body {
     font-size: 15px;
     padding: 15px;
     padding-left: 10px;
-   
+
 }
+
 .member5 {
     font-family: 'Times New Roman';
     font-size: 15px;
-    padding-left: 180px; 
+    padding-left: 180px;
     margin-top: 5%;
     letter-spacing: 1px;
     text-align: left;
@@ -561,18 +566,40 @@ body {
     font-size: 15px;
     padding: 15px;
     padding-left: 10px;
-   
+
 }
-.address{
+
+.address {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: auto;
     padding: 50px 140px;
-    float:center; 
-    
+    float: center;
+
 }
-.address h5{
-    font-family:'Times New Roman', Times, serif;
+
+.address h5 {
+    font-family: 'Times New Roman', Times, serif;
     font-size: 45px;
     text-align: left;
     padding: 0px 60px;
+}
+
+.besta {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 50px 140px;
+    float: inline-end;
+}
+.bestb {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 50px ;
+}
+.bestc {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 50px 140px;
 }
