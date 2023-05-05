@@ -594,7 +594,7 @@ body {
 .abouttext h1{
     padding: 210px;
    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+    text-align: left;
     font-size: 15px;
 }
 .last{
