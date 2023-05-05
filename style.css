@@ -213,7 +213,7 @@ ul li a:hover {
 }
 
 .container .box {
-     display: flex; 
+    display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
@@ -464,7 +464,7 @@ body {
     text-align: left;
 }
 
-.member  li {
+.member li {
     font-family: verdana;
     margin-top: 13px;
     color: #0d0100;
@@ -583,7 +583,8 @@ body {
     text-align: left;
     padding: 0px 60px;
 }
-.address ul li{
+
+.address ul li {
     font-size: 30px;
 }
 
@@ -591,17 +592,23 @@ body {
     padding: 110px;
     text-align: c;
 } */
-.abouttext h1{
+.abouttext h1 {
     padding: 210px;
-   font-family: 'Courier New', Courier, monospace;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
-    font-size: 15px;
+    font-size: 25px;
+    color: blue;
 }
-.last{
-/* display: inline; */
-padding: 320px ;   
-text-align: center; 
-font-size: 30px;
+
+.abouttext h2 {
+    text-align: center;
+}
+
+.last {
+
+    padding: 320px;
+    text-align: center;
+    font-size: 30px;
 }
 
 
@@ -613,12 +620,14 @@ font-size: 30px;
     padding: 50px 140px;
     float: inline-end;
 }
+
 .bestb {
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     text-align: center;
-    padding: 50px ;
+    padding: 50px;
 }
+
 .bestc {
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
@@ -626,11 +635,12 @@ font-size: 30px;
     padding: 50px 140px;
 }
 
-.serv{
+.serv {
     padding: 20px 180px;
-    
+
 }
-.serv h1{
+
+.serv h1 {
     text-align: left;
     font-size: 35px;
 }
@@ -639,15 +649,16 @@ font-size: 30px;
 /* here the part of ( Best picture of 2021) */
 
 
-.image2021{
-    display: flex; 
+.image2021 {
+    display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-     width: 100% ;
-    height: 10%; 
+    width: 100%;
+    height: 10%;
 
 }
+
 .imgA {
 
     height: 60%;
@@ -657,5 +668,14 @@ font-size: 30px;
     flex-direction: column;
 }
 
+/* Here the css of best pic of 2021 */
+.pic {
+    padding: 120px 190px;
+    flex-direction: row;
+}
 
+.pic .photo {
+    padding: 10px;
+    width: 32.5%;
+}
 
