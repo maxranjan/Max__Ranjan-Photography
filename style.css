@@ -679,3 +679,24 @@ body {
     width: 32.5%;
 }
 
+/* here the css of tips page */
+.tips{
+    /* padding-left: 30px; */
+    text-align: left;
+    justify-content: center;
+    padding: 140px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    font-size: 25px;
+    color: rgb(24, 22, 24);
+}
+.tipsabout{
+    text-align: left;
+    padding-top: 10%;
+    padding-left: 33%;
+}
+.tipsbuttom{
+    text-align: left;
+    padding-top: 10%;
+    padding-left: 33%;
+}
