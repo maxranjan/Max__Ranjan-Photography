@@ -717,6 +717,7 @@ body {
 
 .container .form1{
     text-align: right;
+    padding-right: 100px;
 
 }
 
@@ -725,7 +726,7 @@ body {
     text-align: left;
     font-size: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding-left: 60px;
+    
 }
 
 input {
@@ -738,12 +739,14 @@ input {
 }
 
 button {
-    width: 100%;
+    width: 80%;
     height: 35px;
-    background-color: #4debd1;
+    background-color: #f57615;
     font-size: medium;
-    border-radius: 10px;
+    border-radius: 20px;
     cursor: pointer;
-
-
+}
+.message{
+    text-align: left;
+    padding-left: 30px;
 }
