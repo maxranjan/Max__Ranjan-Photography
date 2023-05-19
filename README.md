@@ -1,2 +1,2 @@
 # Max__Ranjan-Photography
-Photography &amp; Videography 
+Photography &amp; Videography site 
